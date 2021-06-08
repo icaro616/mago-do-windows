@@ -1,0 +1,35 @@
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago da informatica.csprojAssemblyReference.cache
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form2.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Properties.Resources.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago da informatica.csproj.GenerateResource.cache
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago da informatica.csproj.CoreCompileInputs.cache
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\mago da informatica.exe
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\mago da informatica.pdb
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago da informatica.exe
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago da informatica.pdb
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form3.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form4.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\icaro.jpg
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form5.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\csc.exe
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\vbc.exe
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\mago da informatica.exe.config
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form6.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form7.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\mago da informatica.exe.manifest
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\bin\Debug\mago da informatica.application
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago da informatica.exe.manifest
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago da informatica.application
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form8.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form9.resources
+C:\Users\icaro\Desktop\software\mago do windows\mago da informatica\mago da informatica\obj\Debug\mago_da_informatica.Form1.resources
